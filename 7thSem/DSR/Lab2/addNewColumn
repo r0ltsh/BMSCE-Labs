@@ -6,3 +6,4 @@ sam_data<-user_data
 vec<-c(10,20,30,40,50)
 user_data<-cbind(sam_data,new_col=vec)
 user_data
+
